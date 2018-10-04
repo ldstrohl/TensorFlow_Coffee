@@ -1,5 +1,6 @@
-Date,Beans,Roast date,Age (days),Roast,Grind Setting,Brew Time,Grounds mass (g),Water mass (g),Water Temperature (C),Half and Half (mL),Cup Rating (0 to 10),Sour-Bitter (-5 to 5)
-Sat Sep 29 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),23,medium,17,Sat Dec 30 1899 03:34:00 GMT-0800 (PST),18,288,99,20,7,0
-Sat Sep 29 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),23,medium,17,Sat Dec 30 1899 02:51:00 GMT-0800 (PST),18,275,99,20,5,0
-Tue Oct 02 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),26,medium,17,Sat Dec 30 1899 02:47:00 GMT-0800 (PST),20,288,99,20,7.75,0
-Wed Oct 03 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),,medium,17,Sat Dec 30 1899 02:50:00 GMT-0800 (PST),22,288,99,20,5,0
+Date,Beans,Roast date,Age_days,Roast,Grind_Setting,Brew_Time,Grounds_mass_g,Water_mass_g,Water_Temperature_C,Half_and_Half_mL,Cup_Rating_0to10
+Sat Sep 29 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),23,medium,17,Sat Dec 30 1899 03:34:00 GMT-0800 (PST),18,288,99,20,7
+Sat Sep 29 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),23,medium,17,Sat Dec 30 1899 02:51:00 GMT-0800 (PST),18,275,99,20,5
+Tue Oct 02 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),26,medium,17,Sat Dec 30 1899 02:47:00 GMT-0800 (PST),20,288,99,20,7.75
+Wed Oct 03 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Thu Sep 06 2018 00:00:00 GMT-0700 (PDT),27,medium,17,Sat Dec 30 1899 02:50:00 GMT-0800 (PST),22,288,99,20,5
+Thu Oct 04 2018 00:00:00 GMT-0700 (PDT),Philz Silken Splendor,Fri Sep 07 2018 00:00:00 GMT-0700 (PDT),27,medium,17,Sat Dec 30 1899 02:38:00 GMT-0800 (PST),20,288,99,20,7.5
