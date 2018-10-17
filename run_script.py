@@ -26,6 +26,11 @@ coffee_data = data_read(filename)
 coffee_data = coffee_data.reindex(np.random.permutation(coffee_data.index))
 
 # Build model
+
+# Reduce dimensionality
+# Convert extensive properties to intensive by normalizing to water mass (mL=mg)
+
+
 # Define the input feature: grounds mass
 feature_name = "Grounds_mass_g"
 my_feature = coffee_data[[feature_name]]
